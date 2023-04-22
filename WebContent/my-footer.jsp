@@ -1,0 +1,1 @@
+<p align="right"> <%= new java.util.Date() %> </p>
